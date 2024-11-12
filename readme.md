@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgement
 
-The foundational code was derived from a sample in Ollama's blog and subsequently enhanced using GitHub Copilot chat with several prompts utilizing GPT-4. Minor adjustments were made to improve and customize functionality.
+The base code was derived from a sample in Ollama's blog and subsequently enhanced using GitHub Copilot chat with several prompts utilizing GPT-4. Minor adjustments were made to improve and customize functionality.
 
 ## Disclaimer
 
