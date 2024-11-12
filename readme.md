@@ -50,6 +50,8 @@ This command analyzes the image `food-plate.jpg` and writes the response to `foo
 ## Sample Outputs
 
 Sample outputs from trial runs for two images are available in the `samples` folder.
+![Sample Food Plate](samples/sample-food-plate.jpg)
+
 
 ## Script Details
 
